@@ -18,3 +18,17 @@ The price of a car depends on a lot of factors like the goodwill of the brand of
 features of the car, horsepower and the mileage it gives and many more. Car price
 prediction is one of the major research areas in machine learning. So if you want to learn
 how to train a car price prediction model then this project is for you.
+
+
+TASK-4[EMAIL SPAM DETECTION WITH MACHINE LEARNING]:      
+We’ve all been the recipient of spam emails before. Spam mail, or junk mail, is a type of email
+that is sent to a massive number of users at one time, frequently containing cryptic
+messages, scams, or most dangerously, phishing content.
+In this Project, use Python to build an email spam detector. Then, use machine learning to
+train the spam detector to recognize and classify emails into spam and non-spam. Let’s get
+started!         
+![image](https://github.com/Devisri2003/OIBSIP/assets/104018021/6d7620cc-4bde-4d1c-b30b-65aa0e101c7f)
+![image](https://github.com/Devisri2003/OIBSIP/assets/104018021/f6da6212-a649-4f84-ac6a-4459929c123a)     
+From this visualization, you can notice something interesting about the spam email. A lot of them are having high number of “spammy” words such as: free, money, product etc. Having this awareness might help us to make better decision when it comes to designing the spam detection system.
+One important thing to note is that word cloud only displays the frequency of the words, not necessarily the importance of the words. Hence it is necessary to do some data cleaning such as removing stopwords, punctuation and so on from the data before visualizing it.
+
